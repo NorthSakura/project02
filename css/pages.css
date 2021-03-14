@@ -41,7 +41,23 @@ aside li {
 	list-style-type: none;
 }
 
-a {
+
+nav {
+	grid-column: 1/2;
+	background-color: #f1f1f1;
+	height: 100%
+
+}
+nav li{
+	text-decoration: none;
+}
+
+nav ul li {
+	list-style-type: none;
+}
+
+nav a {
+
 	text-decoration: none;
 }
 
@@ -101,4 +117,5 @@ a {
 
 .active {
 	background-color: pink;
+	border: 2px solid black;
 }

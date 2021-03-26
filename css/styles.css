@@ -21,12 +21,6 @@ article {
     display: flex;
 }
 
-#skyline {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 400px;
-}
 
 h1, h2, h3 {
     margin-bottom: 0;
@@ -73,6 +67,60 @@ p {
 .food-card-description {
     padding-left: 40px;
     padding-right: 40px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 20px 20px;
+    grid-template-areas:
+      ". ."
+      ". .";
+}
+
+.grid img {
+    width: 400px;
+}
+
+.button-box {
+    display: flex;
+    padding: 1em;
+    width: 820px;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+.button-box button {
+    color: #ffffff;
+    padding: 1em;
+    background-color: #5157DD;
+    border: none;
+    border-radius: 5px;
+}
+
+.button-box button:hover {
+    background-color: #3C40A1;
+}
+
+.button-box button p {
+    padding: 0;
+    line-height: 0;
+    font-size: 20px;
+}
+
+#skyline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+#hero {
+    height: 80vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 /* SIDEBAR */

@@ -13,17 +13,37 @@
     
     <div class="content" id="hero">
         <div class="grid">
-            <div class="col-1">
-                <img src="images/placeholder-image.png" alt="placeholder"/>
+            <div class="container">
+                <img src="images/neworleans-pano.jpg" alt="New Orleans"/>
+                <div class="container-overlay">
+                    <div class="container-details fadeIn-bottom">
+                        <h3 class="container-title">New Orleans</h3>
+                    </div>
+                </div>
             </div>
-            <div class="col-2">
-                <img src="images/placeholder-image.png" alt="placeholder"/>
+            <div class="container">
+                <img src="images/newyorkcity.jpg" alt="New York City"/>
+                <div class="container-overlay">
+                    <div class="container-details fadeIn-bottom">
+                        <h3 class="container-title">New York City</h3>
+                    </div>
+                </div>
             </div>
-            <div class="col-3">
-                <img src="images/placeholder-image.png" alt="placeholder"/>
+            <div class="container">
+                <img src="images/sanfran-skyline.jpg" alt="San Fransisco"/>
+                <div class="container-overlay">
+                    <div class="container-details fadeIn-bottom">
+                        <h3 class="container-title">San Fransisco</h3>
+                    </div>
+                </div>
             </div>
-            <div class="col-4">
-                <img src="images/placeholder-image.png" alt="placeholder"/>
+            <div class="container">
+                <img src="images/toronto-skyline.jpg" alt="Toronto"/>
+                <div class="container-overlay">
+                    <div class="container-details fadeIn-bottom">
+                        <h3 class="container-title">Toronto</h3>
+                    </div>
+                </div>
             </div> 
         </div>
         <div class="button-box">

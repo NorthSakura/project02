@@ -11,8 +11,8 @@
             </a>
         </li>
         <li>
-            <a href="#cuisine">
-                <h3>Cuisine</h3>
+            <a href="#attractions">
+                <h3>Attractions</h3>
             </a>
         </li>
         <li>

@@ -29,7 +29,7 @@ section {
 }
 
 section h2 {
-  padding-right: 2em;
+  padding-right: 1em;
 }
 
 .content {
@@ -173,6 +173,10 @@ p {
   width: 400px;
 }
 
+#sectionImg {
+  width: 300px;
+}
+
 #hero {
   height: 80vh;
   flex-direction: column;
@@ -185,9 +189,11 @@ p {
 }
 
 #history h2 {
-  padding-right: 3.5em;
+  padding-right: 2.5em;
 }
+
 /* SIDEBAR */
+
 .sidebar {
   background-color: #f6f3f3;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;

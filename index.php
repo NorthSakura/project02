@@ -13,38 +13,46 @@
     
     <div class="content" id="hero">
         <div class="grid">
-            <div class="container">
-                <img src="images/neworleans-pano.jpg" alt="New Orleans"/>
-                <div class="container-overlay">
-                    <div class="container-details fadeIn-bottom">
-                        <h3 class="container-title">New Orleans</h3>
+            <a href="neworleans.php">
+                <div class="container">
+                    <img src="images/neworleans-pano.jpg" alt="New Orleans"/>
+                    <div class="container-overlay">
+                        <div class="container-details fadeIn-bottom">
+                            <h3 class="container-title">New Orleans</h3>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="container">
-                <img src="images/newyorkcity.jpg" alt="New York City"/>
-                <div class="container-overlay">
-                    <div class="container-details fadeIn-bottom">
-                        <h3 class="container-title">New York City</h3>
+            </a>
+            <a href="nyc.php">
+                <div class="container">
+                    <img src="images/newyorkcity.jpg" alt="New York City"/>
+                    <div class="container-overlay">
+                        <div class="container-details fadeIn-bottom">
+                            <h3 class="container-title">New York City</h3>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="container">
-                <img src="images/sanfran-skyline.jpg" alt="San Fransisco"/>
-                <div class="container-overlay">
-                    <div class="container-details fadeIn-bottom">
-                        <h3 class="container-title">San Fransisco</h3>
+            </a>
+            <a href="sanfransisco.php">
+                <div class="container">
+                    <img src="images/sanfran-skyline.jpg" alt="San Fransisco"/>
+                    <div class="container-overlay">
+                        <div class="container-details fadeIn-bottom">
+                            <h3 class="container-title">San Fransisco</h3>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="container">
-                <img src="images/toronto-skyline.jpg" alt="Toronto"/>
-                <div class="container-overlay">
-                    <div class="container-details fadeIn-bottom">
-                        <h3 class="container-title">Toronto</h3>
+            </a>
+            <a href="toronto.php">
+                <div class="container">
+                    <img src="images/toronto-skyline.jpg" alt="Toronto"/>
+                    <div class="container-overlay">
+                        <div class="container-details fadeIn-bottom">
+                            <h3 class="container-title">Toronto</h3>
+                        </div>
                     </div>
-                </div>
-            </div> 
+                </div> 
+            </a>
         </div>
         <div class="button-box">
             <a href="neworleans.php">

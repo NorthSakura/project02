@@ -11,6 +11,10 @@
         <a href="http://erosa4.digitalscholar.rochester.edu/project01/neworleans.html">
             <p>Original Website</p>
         </a>
+        <a href="https://unsplash.com/">
+            <p>Images</p>
+        </a>
     </div>
 </footer>
 <script src="//code.jquery.com/jquery.js"></script>
+<script src="js/menu-highlighter.js"></script> 

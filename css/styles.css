@@ -234,9 +234,13 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: inherit;
+  color: #CCCDCF;
   padding: 0;
   margin: 0;
+}
+
+nav a:hover {
+  color: black;
 }
 
 nav img {
@@ -267,6 +271,10 @@ nav li {
   top: 0;
 }
 
+.current {
+  color: black;
+  text-decoration: underline;
+}
 /* FOOTER */
 
 footer {

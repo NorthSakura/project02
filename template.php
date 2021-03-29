@@ -20,9 +20,6 @@
             <section id="about">
                 <h1>City Name</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas accumsan lacus vel facilisis volutpat est velit egestas dui. Semper quis lectus nulla at volutpat diam. Massa eget egestas purus viverra accumsan in. Scelerisque eu ultrices vitae auctor. Amet consectetur adipiscing elit ut aliquam purus sit. Id ornare arcu odio ut sem nulla pharetra diam. Ipsum a arcu cursus vitae. Purus ut faucibus pulvinar elementum. Quam id leo in vitae turpis massa sed elementum. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Imperdiet massa tincidunt nunc pulvinar sapien et. A cras semper auctor neque vitae. At risus viverra adipiscing at in tellus integer. Volutpat odio facilisis mauris sit amet. Nisl rhoncus mattis rhoncus urna neque. Tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum.</p>
-                <figure>
-                    <img id="skyline" src="images/placeholder-image.png" alt="placeholder"/>
-                </figure>
             </section>
 
             <section id="history">

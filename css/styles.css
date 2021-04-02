@@ -49,18 +49,22 @@ h1 {
   font-size: 3em;
   padding-top: 0em;
   padding-bottom: 0;
+  font-family: 'PT Serif', serif;
 }
 
 h2 {
   font-size: 2em;
+  font-family: 'PT Serif', serif;
 }
 
 h3 {
   font-size: 1em;
+  font-family: 'PT Serif', serif;
 }
 
 p {
   line-height: 1.3em;
+  font-family: 'PT Sans', sans-serif;
 }
 
 .grid {
